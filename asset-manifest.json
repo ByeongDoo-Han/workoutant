@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workoutant/static/css/main.251ba338.css",
+    "main.js": "/workoutant/static/js/main.70768614.js",
+    "index.html": "/workoutant/index.html",
+    "main.251ba338.css.map": "/workoutant/static/css/main.251ba338.css.map",
+    "main.70768614.js.map": "/workoutant/static/js/main.70768614.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.251ba338.css",
+    "static/js/main.70768614.js"
+  ]
+}
